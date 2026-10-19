@@ -1,0 +1,59 @@
+{
+  "title": "Carry the Miles",
+  "version": "1.0",
+  "artist": "Dutcheyy",
+  "label": "Dutcheyy Records",
+  "bpm": 94,
+  "key": "G major / E minor",
+  "time_signature": "4/4",
+  "approx_duration": "3:04",
+  "genre": [
+    "Folk",
+    "Singer-Songwriter",
+    "Acoustic Indie"
+  ],
+  "moods": [
+    "reflective",
+    "resilient",
+    "warm",
+    "hopeful"
+  ],
+  "copyright_notice": "Entirely original composition. Does not reproduce Passenger’s Holes melody, lyrics, or arrangement.",
+  "writer": "Duncan / Dutcheyy",
+  "IPI": "01071694550",
+  "works_registration_number": "82060188",
+  "tracks": [
+    "01_Acoustic_Guitar_Main",
+    "02_Acoustic_Guitar_Double",
+    "03_Fingerpicked_Guitar",
+    "04_12_String_Guitar",
+    "05_Mandolin",
+    "06_Banjo_Texture",
+    "07_Ukulele_Texture",
+    "08_Upright_Piano",
+    "09_Hammond_Organ",
+    "10_Upright_Bass",
+    "11_Kick",
+    "12_Snare_Brush",
+    "13_Shaker",
+    "14_Tambourine",
+    "15_Handclaps",
+    "16_Floor_Tom",
+    "17_Violin",
+    "18_Viola",
+    "19_Cello",
+    "20_Harmonica",
+    "21_Whistle_Hook",
+    "22_Original_Vocal_Guide",
+    "23_Harmony_Vocal_Guide",
+    "24_Ambient_Room_Texture"
+  ],
+  "cue_cuts": [
+    "15 sec",
+    "30 sec",
+    "60 sec",
+    "instrumental",
+    "no drums",
+    "acoustic underscore"
+  ]
+}
